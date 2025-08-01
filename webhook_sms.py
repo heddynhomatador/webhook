@@ -56,7 +56,7 @@ def webhook():
         # Envio via CallMeBot (WhatsApp)
         api_url = (
             f"https://api.callmebot.com/whatsapp.php?"
-            f"phone=+5511917112598&apikey=2998637"
+            f"phone=+5511956041955&apikey=3337605"
             f"&text={mensagem_encoded}"
         )
 
